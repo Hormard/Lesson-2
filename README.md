@@ -1,2 +1,2 @@
-# lesson-2-
+# lesson-2
   https://hormard.github.io/Lesson-2/
