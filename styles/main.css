@@ -1,11 +1,12 @@
 
-* {margin 0}
+*{margin: 0;}
 header {
+    position: relative;
     width: 1400px;
     height: 250px;
 }
 h1 {
-    position: relative;
+    position: absolute;
     top: 100px;
     left: 496px;
     width: 409px;
@@ -16,15 +17,15 @@ h1 {
     color: #262626;
 }
 hr {
-    position: relative;
+    position: absolute;
     top: 163px;
     left: 668px;
     width: 64px;
-    height: 1px;
+    height: 2px;
     background-color: #E72424;
 }
 h3 {
-    position: relative;
+    position: absolute;
     top: 195px;
     left: 519px;
     width: 363px;
@@ -94,4 +95,4 @@ p {
     font-size: 14px;
     font-family: 'Open Sans', sans-serif;
     text-align: center;    
-}
+} 
